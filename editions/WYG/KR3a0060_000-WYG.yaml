@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0060/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部一
+  hash: sha256:0cca43e587e9c707aa7b5087f084e976ac80456101f009f4c0e78ad8fcc2f097
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0060_WYG_000-1a, image: WYG0706/WYG0706-0425a.png}
+body:
+  text: 心經儒家類提要臣等謹案心經一卷宋真徳秀撰是編集聖賢論心格言而以諸家議論為之注末附四言贊一首端平元年顔若愚鋟于泉州府學有跋一首稱其築室粤山之下雖晏息之地常如君父之臨其前淳祐二年大庾令趙時棣又以此書與政經合刻前有徳秀門人王邁序云心經一書行于世至徹禁中端平乙未公薨後兩月從臣洪公咨䕫在經筵上出公心經曰真某此書朕乙夜覽而嘉之卿宜為之序其見重也如此文獻通考作心經法語與書録解題相合葢一書而二名耳明程敏政嘗為作注而疑其中有引及真西山讀書記者非徳秀之原文殆後人又有所附益焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:93578c47665359e67f41c784873c58ef01e23ccfe43b2150d399430c5b7c2296
+metadata:
+  title: 心經
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:59:17.503557'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3a0060/KR3a0060_000.txt
+hash: sha256:d7dbe3a8092b0c782f249178e8bf9db900f3337c9809f03f63c3f93f8dfc0bd0

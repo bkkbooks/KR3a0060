@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3a0060/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3a0060/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 心經
+  date: '2015-08-24 22:59:17.503557'
+  source:
+    repository: kanripo
+    path: KR3a0060
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0060_000-WYG.yaml, hash: 'sha256:d7dbe3a8092b0c782f249178e8bf9db900f3337c9809f03f63c3f93f8dfc0bd0'}
+  - {seq: 1, filename: KR3a0060_001-WYG.yaml, hash: 'sha256:303dd484d1b5b9232cbfa32f1a03123bd26a6694bf5a8a3d07b4b7c2a6177ea0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0060_000-WYG.markers.yaml, hash: 'sha256:c07515d68b9769dc56005936e0308a4366fc85dbe5847c03e334febe6b3e0593'}
+  - {seq: 1, role: markers, filename: assets/KR3a0060_001-WYG.markers.yaml, hash: 'sha256:8f39e3b0f0b6eb6a954d029a5ec72c7eb1e1efee7bbe729af9175ae4d8439279'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0060_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 261
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0060_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7088
+  label: 心經
+  type: section
+  level: 1
+hash: sha256:5b0afac7fd07036e76200537cef793aa0f54b4de6a729fa6acc61f15f7bad341
