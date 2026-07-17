@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3a0060_000.yaml, hash: 'sha256:dcd1b8382991879f306a0cb826514544b5de400dd51dc21195e9a55ce0a94f3b'}
   - {seq: 1, filename: KR3a0060_001.yaml, hash: 'sha256:5706092aa9e33d8f12eae57fd720fa0ca04dfcaca9ae61ab2a018a0669286a4f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0060_000.markers.yaml, hash: 'sha256:5f6ec280096dafc0c517522fc93b05d0124a7e3e908a469f163349acaab3ea73'}
-  - {seq: 1, role: markers, filename: assets/KR3a0060_001.markers.yaml, hash: 'sha256:3f6f6291db5491c7191db31901858e911da6b23a3750728c67241a0ca5dde466'}
+  - {seq: 0, role: markers, filename: assets/KR3a0060_000.markers.yaml, hash: 'sha256:41266b79906ed812711803299951f0d0191910f6d34be1a887af0ec7663e45e8'}
+  - {seq: 1, role: markers, filename: assets/KR3a0060_001.markers.yaml, hash: 'sha256:c69060ddcc865d130307231727928f6a5e1b0937b6472647c73653e62bcbcdef'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 心經
   type: section
   level: 1
-hash: sha256:b095e61dce60bc8b84ea1ec9f2c4ec6a9642cae2b09f8f61e324fe17776f074f
+hash: sha256:b3389f078c0d6d5ea3895fad22231be6e2139ecc7aa6bcf281b1c97b01c94e7d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
